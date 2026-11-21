@@ -6,7 +6,7 @@ Docente: Dr. Alain Paul Herrera Urtiaga
 **Realizado por:** Edgar Oswaldo Ccapa Yanqui 
 **Repositorio:** https://github.com/oswrik/suscripcion_banco/
 
-**Informes:** [Producto 1](informe/Producto1.pdf) · [Producto 2](informe/Producto2.pdf)
+**Informes:** [Producto 1](informe/producto1.pdf) · [Producto 2](informe/producto2.pdf)
 
 ## 1. El problema
 
